@@ -1,0 +1,4 @@
+# Start Generation Here
+**/node_modules/
+**/.env
+# End Generation Here
